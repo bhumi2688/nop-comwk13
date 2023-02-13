@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="98.357">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldBuildYourOwnComputerAndAddThemToCartSuccessfully" time="24.714" classname="com.nopcommercewk13.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYourOwnComputerAndAddThemToCartSuccessfully" time="24.584" classname="com.nopcommercewk13.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigatetoComputerPageSuccessfully" time="1.213" classname="com.nopcommercewk13.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.923" classname="com.nopcommercewk13.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYourOwnComputerAndAddThemToCartSuccessfully" time="45.923" classname="com.nopcommercewk13.testsuite.ComputerPageTest" />
+      
+</testsuite>
